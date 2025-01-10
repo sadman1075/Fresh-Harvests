@@ -1,8 +1,7 @@
-# React + Vite
+# Fresh Harvests
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+At Fresh Harvests, we are passionate about connecting communities with the freshest, locally sourced produce directly from farms. Our mission is to create a seamless link between farmers, consumers, and businesses, ensuring everyone has access to seasonal, sustainable, and high-quality harvests. By leveraging technology, we empower farmers to showcase their produce, help consumers make healthier food choices, and support businesses in delivering farm-to-table experiences.
+# Features:
+In this web site you can buy fresh fruits also many ohter things.
+# live Link:
+https://sms-project-99348.web.app/
